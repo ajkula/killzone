@@ -54,7 +54,20 @@ As player choosing it's alignment, other factions should unveil for exemple:
 
 ## alignment
 
+You can accept attack missions from different contracts vendors in safe zones:
+ - Capture some scientist or specialist will grant you rewards like:
+   - Credits, if you bring the person to the faction camp, and a lot of alignment exp.
+   - A new HUD/MENU fonctionnality OR in some case a new ally in your base you can take in your active squad, then less faction exp.
+ - Attack enemy convoy
+ - etc...
 
+As you progress faction Exp milestones, you get more allied with that particular faction and main story unfolds as it closes for others.  
+As each faction's goal is different the main story should be different too... That makes new game+ very attractive.  
+Recruiting scientists should have an effect on menu/HUD by the tech they'll add.  
+> Exemple, you get a contract to capture a helghast scientist, you recruit him, he adds a layer on your world map displaying in the "helghast orange/brownish" the "battle weather", icons like:
+ - artillery strikes
+ - huge armor column
+ - snipers
 
 ## Map mechanics
 
@@ -66,3 +79,23 @@ The **map**  has basically 3 types of areas (some exist/accessible only ):
 > Some place should be contextual to player alignment, for exemple:
 > - Stahl arms factory
 > - etc...
+
+Map should be changing in the high intesity areas.
+> for exemple: after a artillery on a zone there should be craters to hide in...  
+
+Big cataclysmic events should happen like earthquakes, tornados, ice fall, thick fog.  
+They should defines the strategy to adapt.  
+Should you take on of your base's armored vehicle, a sniper in your team, shock troopers...  
+That should be thought according to mission and **map battlefield weather**.
+
+## Exemple
+
+> you picked a **hybrid** as your character, your alignement is **New faction**, your mission attack an **ISA base**.  
+
+You take a helghast sniper/recon specialistand an engineer.  
+Position your sniper/recon on a high place so your helghast helmet displays AR intels (the focal point aligns perfectly the display while it is a bit out of step on the sides).  
+you approach the base which has **new faction** construction vehicles, your engineer hacks these causing a chaos. The sinper shoots their comms operator, causing the start of the battle...  
+while you fight and reposition to keep the tactical advantage a helghast ATAC suddenly attacks the ISA base followed by helghast soldiers and a scorpion tank.  
+OOPS! a **tornado** appears washing away the ATAC and now everyone tries to take cover...
+
+# HOW ABOUT IT?
