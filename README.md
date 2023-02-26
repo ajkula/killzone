@@ -88,14 +88,25 @@ They should defines the strategy to adapt.
 Should you take on of your base's armored vehicle, a sniper in your team, shock troopers...  
 That should be thought according to mission and **map battlefield weather**.
 
+## Epic secondary/hidden bosses/objectives
+
+Yes there should be **elite** activities on the high intesity map for highest level players.  
+  
+Also events are constantly happening, patrols attacking positions, fights, it's never quite.  
+  
+The teammates you recruit are just recruits at first, but they will tell you something they do care about, their NPC side quests.  
+Doing these services will unlock more potential from them.  
+  
+Everything should have an experience gauge even weapons lvls will let you improve handling/precision/reloading then at milestones you can buy new sights/magazines/handles/...
+
 ## Exemple
 
 > you picked a **hybrid** as your character, your alignement is **New faction**, your mission attack an **ISA base**.  
 
-You take a helghast sniper/recon specialistand an engineer.  
-Position your sniper/recon on a high place so your helghast helmet displays AR intels (the focal point aligns perfectly the display while it is a bit out of step on the sides).  
-you approach the base which has **new faction** construction vehicles, your engineer hacks these causing a chaos. The sinper shoots their comms operator, causing the start of the battle...  
-while you fight and reposition to keep the tactical advantage a helghast ATAC suddenly attacks the ISA base followed by helghast soldiers and a scorpion tank.  
-OOPS! a **tornado** appears washing away the ATAC and now everyone tries to take cover...
+1. You take a helghast sniper/recon specialistand an engineer.  
+2. Position your sniper/recon on a high place so your helghast helmet displays AR intels (the focal point aligns perfectly the display while it is a bit out of step on the sides).  
+3. You approach the base which has **new faction** construction vehicles, your engineer hacks these causing a chaos. The sinper shoots their comms operator, causing the start of the battle...  
+4. While you fight and reposition to keep the tactical advantage a helghast ATAC suddenly attacks the ISA base followed by helghast soldiers and a scorpion tank.  
+5. OOPS! a **tornado** appears washing away the ATAC and now everyone tries to take cover...
 
 # HOW ABOUT IT?
